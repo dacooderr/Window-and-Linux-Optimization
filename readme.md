@@ -30,13 +30,13 @@
 ## LINUX
 
 **Best Kernel For Gaming**
-  - [CachyOS](https://cachyos.org/): Best for latency and overall FPS. I have over a year of experience with this Kernal and highly recommend it over anything else if you are looking for the best gaming compatibility and stability but also have a general understanding of Arch.
-  - [Bazzite](https://bazzite.gg/): Best for FPS and ease of use. Has built a strong reputation for being the most like windows without the bloat and with all the scheduling optimizations you'd expect from a gaming focused Linux Kernal.
-  - [EndeavorOS](https://endeavouros.com/): A bit more complicated of an Arch based Kernal but after months of driving, I've come to prefer it for both gaming and everyday productivity.
+  - [CachyOS](https://cachyos.org/): Best for latency and overall FPS. I have over a year of experience with this Kernel and highly recommend it over anything else if you are looking for the best gaming compatibility and stability but also have a general understanding of Arch.
+  - [Bazzite](https://bazzite.gg/): Best for FPS and ease of use. Has built a strong reputation for being the most like windows without the bloat and with all the scheduling optimizations you'd expect from a gaming focused Linux Kernel.
+  - [EndeavorOS](https://endeavouros.com/): A bit more complicated of an Arch based Kernel but after months of driving, I've come to prefer it for both gaming and everyday productivity.
 
 **UPDATING ON LINUX**      
 
-    The 3 Kernals I listed above have install/update package scripts preinstalled and it is easily done by using said script and going through the Y/n prompts.
+    The 3 Kernels I listed above have install/update package scripts preinstalled and it is easily done by using said script and going through the Y/n prompts.
     This includes chipset drivers. ex. GPU/CPU
 
 **STRETCH RES ON LINUX**
