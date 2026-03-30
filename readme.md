@@ -1,8 +1,8 @@
 # A Windows and Linux PC Optimizations
 
 
-WINDOWS
----------------------------------------
+## WINDOWS
+
 **Improve 1%/0.1% Lows:**
 
 • **__Process Lasso:__** Using this program, you can force apps to run in a specified priority, as well as adjust core affinity according to your system. [DOWNLOAD](https://bitsum.com/) 
@@ -18,4 +18,4 @@ WINDOWS
      - Open Windows Powershell in Administator and paste this in the console _irm christitus.com/win | iex_  and press enter. You can follow his tutorial [here](https://www.youtube.com/watch?v=yKydZFJRzMk&)
 
 
-## Linux
+## LINUX
