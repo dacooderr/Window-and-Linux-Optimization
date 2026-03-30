@@ -26,3 +26,5 @@
   - [EndeavorOS](https://endeavouros.com/): A bit more complicated of an Arch based Kernal but after months of driving, I've come to prefer it for both gaming and everyday productivity.
 
 
+## Steam Launch Options
+  #000000 -threads x 
