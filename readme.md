@@ -29,3 +29,5 @@
 ## Steam Launch Options
   - `-threads x` Adjust the amount of threads the game uses. Replace with your thread count -1 or try half your thread count.
   - `-high` Tells windows to run your game in High Priority mode.
+  - `-vulkan` Makes the game run under Vulkan rendering pipeline.
+  - `-dx11` Makes the game run under DX11 rendering pipeline.
