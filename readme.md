@@ -3,6 +3,12 @@
 
 ## WINDOWS
 
+## Steam Launch Options
+  - `-threads x` Adjust the amount of threads the game uses. Replace with your thread count -1 or try half your thread count.
+  - `-high` Tells windows to run your game in High Priority mode.
+  - `-vulkan` Makes the game run under Vulkan rendering pipeline.
+  - `-dx11` Makes the game run under DX11 rendering pipeline.
+
 **Improve 1%/0.1% Lows:**
 
 • **__Process Lasso:__** Using this program, you can force apps to run in a specified priority, as well as adjust core affinity according to your system. [DOWNLOAD](https://bitsum.com/) 
@@ -24,10 +30,3 @@
   - [CachyOS](https://cachyos.org/): Best for latency and overall FPS. I have over a year of experience with this Kernal and highly recommend it over anything else if you are looking for the best gaming compatibility and stability but also have a general understanding of Arch.
   - [Bazzite](https://bazzite.gg/): Best for FPS and ease of use. Has built a strong reputation for being the most like windows without the bloat and with all the scheduling optimizations you'd expect from a gaming focused Linux Kernal.
   - [EndeavorOS](https://endeavouros.com/): A bit more complicated of an Arch based Kernal but after months of driving, I've come to prefer it for both gaming and everyday productivity.
-
-
-## Steam Launch Options
-  - `-threads x` Adjust the amount of threads the game uses. Replace with your thread count -1 or try half your thread count.
-  - `-high` Tells windows to run your game in High Priority mode.
-  - `-vulkan` Makes the game run under Vulkan rendering pipeline.
-  - `-dx11` Makes the game run under DX11 rendering pipeline.
