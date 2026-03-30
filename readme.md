@@ -41,7 +41,7 @@
 
 **STRETCH RES ON LINUX**
 
-  Using LinuxNext's guide you can learn how to get stretch res to work on any game using steam proton launch environmental variables. [Tutorial Here](https://www.youtube.com/watch?v=kKF_6OHXwzg&)
+  - Using LinuxNext's guide you can learn how to get stretch res to work on any game using steam proton launch environmental variables. [Tutorial Here](https://www.youtube.com/watch?v=kKF_6OHXwzg&)
   
 ## Linux Steam Launch Environmental Variables
   - `gamemoderun` Makes the scheduler activate performance mode while gaming, this varaible should always come first. Depending on your Kernal, you may need to install this. Go [here](https://github.com/feralinteractive/gamemode)
