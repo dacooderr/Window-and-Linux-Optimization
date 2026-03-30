@@ -39,7 +39,7 @@
     The 3 Kernals I listed above have install/update package scripts preinstalled and it is easily done by using said script and going through the Y/n prompts.
     This includes chipset drivers. ex. GPU/CPU
 
-**STRETCH RES ON LINUX
+**STRETCH RES ON LINUX**
 
   Using LinuxNext's guide you can learn how to get stretch res to work on any game using steam proton launch environmental variables. [Tutorial Here](https://www.youtube.com/watch?v=kKF_6OHXwzg&)
   
