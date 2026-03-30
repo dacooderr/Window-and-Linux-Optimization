@@ -36,3 +36,4 @@
   - `PROTON_FSR4_RDNA3_UPGRADE=1` Enables FSR4 for RDNA3 GPUs
   - `PROTON_ENABLE_WAYLAND=1` Forces proton to run games under Wayland as a means to replace x11 and improve stability on Linux
   - `MANGOHUD=1` Adds performance metrics to check, must have it installed [here](https://github.com/flightlessmango/MangoHud)
+  - `gamemoderun` Makes the scheduler activate performance mode while gaming, this varaible should always come first
