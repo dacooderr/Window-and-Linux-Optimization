@@ -9,7 +9,7 @@
   - `-vulkan` Makes the game run under Vulkan rendering pipeline.
   - `-dx11` Makes the game run under DX11 rendering pipeline.
 
-**Improve 1%/0.1% Lows:**
+**Improve 1%/0.1% Lows and Input Latency:**
 
 • **__Process Lasso:__** Using this program, you can force apps to run in a specified priority, as well as adjust core affinity according to your system. [DOWNLOAD](https://bitsum.com/) 
 
@@ -22,6 +22,9 @@
   - Using [Chris Titus' Windows Debloater](https://christitus.com/windows-tool/) you can customize and debloat windows to your liking by a click of a few buttons.
 
      - Open Windows Powershell in Administator and paste this in the console _irm christitus.com/win | iex_  and press enter. You can follow his tutorial [here](https://www.youtube.com/watch?v=yKydZFJRzMk&)
+
+### Calypto's In-depth Latency Guide
+• If you have the time, this very long and in-depth guide explains the science behind Latency, and how to improve it [here](
 
 
 ## LINUX
@@ -37,7 +40,7 @@
     This includes chipset drivers. ex. GPU/CPU
 
 ## Linux Steam Launch Environmental Variables
-  - `gamemoderun` Makes the scheduler activate performance mode while gaming, this varaible should always come first. Depending on your Kernal, you may need to install this. Go [here](https://github.com/feralinteractive/gamemode)
+  - `gamemoderun` Makes the scheduler activate performance mode while gaming, this varaible should always come first. Depending on your Kernal, you may need to install this. Go [here](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit?tab=t.0)
   - `ENABLE_LAYER_MESA_ANTI_LAG=1` Enables anti-lag
   - `PROTON_FSR4_RDNA3_UPGRADE=1` Enables FSR4 for RDNA3 GPUs
   - `PROTON_ENABLE_WAYLAND=1` Forces proton to run games under Wayland as a means to replace x11 and improve stability on Linux
