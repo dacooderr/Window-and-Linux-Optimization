@@ -55,4 +55,7 @@
   - `ENABLE_LAYER_MESA_ANTI_LAG=1` Enables anti-lag
   - `PROTON_FSR4_RDNA3_UPGRADE=1` Enables FSR4 for RDNA3 GPUs
   - `MANGOHUD=1` Adds performance metrics to check, must have it installed [here](https://github.com/flightlessmango/MangoHud)
-  
+
+
+  Credits: 
+  simcasting: made the CPU scheduling guide.
