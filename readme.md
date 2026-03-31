@@ -57,6 +57,6 @@
   - `MANGOHUD=1` Adds performance metrics to check, must have it installed [here](https://github.com/flightlessmango/MangoHud)
 
 
-  Credits: 
+ # Credits 
   
   [simcasting](https://www.youtube.com/@GreatestToEverDoIt)  |  made the CPU scheduling guide
