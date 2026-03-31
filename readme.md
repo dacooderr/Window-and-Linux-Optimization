@@ -9,7 +9,7 @@
   - `-vulkan` Makes the game run under Vulkan rendering pipeline.
   - `-dx11` Makes the game run under DX11 rendering pipeline.
 
-**Improve 1%/0.1% Lows and Input Latency:**
+**<ins>Improve 1%/0.1% Lows and Input Latency</ins>**:
 
 • **__Process Lasso:__** Using this program, you can force apps to run in a specified priority, as well as adjust core affinity according to your system. [DOWNLOAD](https://bitsum.com/) 
 
@@ -17,13 +17,13 @@
 
 **__RTSS (Rivatuner Statistics Server):__** Using this program, you can limit your FPS, 3 frames below your refresh rate and significantly improve your 1% lows. [DOWNLOAD](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/)
 
-**DEBLOAT**
+**<ins>DEBLOAT</ins>**
 
   - Using [Chris Titus' Windows Debloater](https://christitus.com/windows-tool/) you can customize and debloat windows to your liking by a click of a few buttons.
 
      - Open Windows Powershell in Administator and paste this in the console _irm christitus.com/win | iex_  and press enter. You can follow his tutorial [here](https://www.youtube.com/watch?v=yKydZFJRzMk&)
 
-### Calypto's In-depth Latency Guide
+### <ins>Calypto's In-depth Latency Guide</ins>
   - If you have the time, this very long and in-depth guide explains the science behind Latency, and how to improve it [here](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit?tab=t.0)
 
 
