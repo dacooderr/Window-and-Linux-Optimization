@@ -14,7 +14,7 @@ Do not use both DX11 and Vulkan at the same time, these conflict.
 
 An example of your launch options could look like `-dx11 -high -threads 12` or `-vulkan -high -threads 12`
 
-It's also important to note not every game supports Vulkan and DX12. So it may not work.
+It's also important to note, not every game supports Vulkan and DX12. So it may not work.
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
