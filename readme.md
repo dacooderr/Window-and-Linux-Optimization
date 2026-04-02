@@ -10,7 +10,7 @@
   - `-dx11` Makes the game run under DX11 rendering pipeline. (Using this with an Nvidia GPU, may wield much better FPS in most games.)
   - `-dx12` Makes the game run under DX12 rendering pipeline. (Using this with a Newer GPU, may wield much better FPS in most games.)
 
-Do not use both DX11 and Vulkan at the same time, these conflict.
+Do not use both DX11/DX12 and Vulkan at the same time, these conflict.
 
 An example of your launch options could look like `-dx11 -high -threads 12` or `-vulkan -high -threads 12`
 
