@@ -13,6 +13,8 @@ Do not use both DX11 and Vulkan at the same time, these conflict.
 
 An example of your launch options could look like `-dx11 -high -threads 12` or `-vulkan -high -threads 12`
 
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 **<ins>Improve 1%/0.1% Lows and Input Latency</ins>**:
 
 • **__Process Lasso:__** Using this program, you can force apps to run in a specified priority, as well as adjust core affinity according to your system. [DOWNLOAD HERE](https://bitsum.com/).
@@ -30,6 +32,7 @@ An example of your launch options could look like `-dx11 -high -threads 12` or `
 ### <ins>Calypto's In-depth Latency Guide</ins>
   - If you have the time, this very long and in-depth guide explains the science behind Latency, and how to improve it [here](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit?tab=t.0).
 
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## LINUX
 
