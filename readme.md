@@ -16,7 +16,7 @@ An example of your launch options could look like `-dx11 -high -threads 12` or `
 
 It's also important to note, not every game supports Vulkan or DX12. So it may not work.
 
-___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **<ins>Improve 1%/0.1% Lows and Input Latency</ins>**:
 
@@ -39,7 +39,7 @@ ________________________________________________________________________________
 ### <ins>Calypto's In-depth Latency Guide</ins>
   - If you have the time, this very long and in-depth guide explains the science behind Latency, and how to improve it [here](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit?tab=t.0).
 
-___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## LINUX
 
@@ -48,9 +48,13 @@ ________________________________________________________________________________
   - [Bazzite](https://bazzite.gg/): Best for FPS and ease of use. Has built a strong reputation for being the most like windows like being immutable (can't change important things and break them) without the bloat and with all the scheduling optimizations you'd expect from a gaming focused Linux Kernel.
   - [EndeavorOS](https://endeavouros.com/): A bit more complicated of an Arch based Kernel but after months of driving, I've come to prefer it for both gaming and everyday productivity.
 
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 **CPU Scheduler Optimizations by simcasting**
   
   - [Here](https://docs.google.com/document/d/10dqY3L9oH9F0n9wDi0r5P_OYhU3ZaczYwfUMAvC-WhU/edit?tab=t.0) you can find research on CPU scheduling for Linux Kernels done by Community Member: *simcasting*
+
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **UPDATING ON LINUX**      
 
